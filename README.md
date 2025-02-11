@@ -29,9 +29,9 @@ Before running the ANC system, make sure you have the following installed:
 - [matplotlib](https://matplotlib.org/) (for visualization support)
 
 You can install the required packages using pip:
-****bash
+```bash
 pip install numpy sounddevice scipy matplotlib
-****
+```
 
 
 ## Getting Started
